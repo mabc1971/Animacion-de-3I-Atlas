@@ -1,0 +1,5 @@
+{
+  "name": "Comet Trajectory Animator",
+  "description": "An interactive animation showcasing the trajectory of Comet 3i/ATLAS through our solar system, with representations of the sun and planets.",
+  "requestFramePermissions": []
+}
